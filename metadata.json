@@ -1,0 +1,6 @@
+{
+  "name": "Water Quality Monitoring System",
+  "description": "Monitor. Analyze. Protect. Academic software simulation prototype for water quality sample management, threshold evaluation, alert tracking, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
